@@ -11,3 +11,4 @@ class Song
     @artist = artist 
     @genres = genre 
   end 
+end 
