@@ -13,10 +13,14 @@ class Song
   end 
 end 
 
-  # def self.genres
-  #   @genres 
-  # end
+  def self.count 
+    @song_count 
+  end 
   
-  # def self.artists 
-  #   @artists 
-  # end 
+  def self.genres
+    @genres 
+  end
+  
+  def self.artists 
+    @artists 
+  end 
