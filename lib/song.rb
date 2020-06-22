@@ -13,10 +13,10 @@ class Song
   end 
 end 
 
-  def self.genres
-    @genres 
-  end
+  # def self.genres
+  #   @genres 
+  # end
   
-  def self.artists 
-    @artists 
-  end 
+  # def self.artists 
+  #   @artists 
+  # end 
